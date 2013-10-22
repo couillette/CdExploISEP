@@ -1,0 +1,15 @@
+// Determine action priorities for the current project
+
+//@All = {DIOT Vincent (soletotoche@hotmail.com), De KERGOLAIS Henri(henrideker@gmail.com), PAYET Laurent(slyfer-974@hotmail.com)}
+
+@all : Determine the technology to use [Maven|JPA|Guava|Jersey(JSON/Grizzly/Guice)|mockito|Junit|Fest-Assert|Guice]
+
+	-
+
+@all : List of URL To map
+
+	-
+	
+@all : Design global Architecture
+
+	-
